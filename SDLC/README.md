@@ -1,0 +1,6 @@
+1.  Royce, W.W. (1970). Managing the development of large software systems: concepts and techniques. ICSE (1987)
+2.  Boehm, B.W.: A spiral model of software development and enhancement. In: Computer, vol. 21, no. 5, pp. 61-72. (1988)
+3.  Nugroho, S., Waluyo, S.H., Hakim, L.: Comparative Analysis of Software Development Methods Between Parallel, V-Shaped and Iterative. In: International Journal of Computer Application (0975 – 8887), Volume 169 – No. 11. (2017)
+4.  Larman, C., Basili, V.R.: Iterative and Incremental Development: A Brief History. In: IEEE Computer Society. 0018 – 9162/03. (2003)
+5.  Bhalerao, S., Puntambekar, D., Ingle, M.: Generalizing Agile Software Development Life Cycle. In: International Journal on Computer Science and Engineering Vol.1(3), 222-226. (2009)
+6.  Ruparelia, N.B: Software Development Lifecycle Models. In: ACM SIGSOFT Software Engineering Notes, Volume 35, Number 3. (2010)
